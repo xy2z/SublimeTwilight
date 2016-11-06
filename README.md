@@ -12,14 +12,3 @@ _Coming soon..._
 ## Todo
 - Test if this also works for ST2?
 - Change highlight color of current-line.
-
-
-## Examples
-
-### Code
-```javascript
-var twilight = true;
-function example(foo) {
-	alert('Ohai ' + foo);
-}
-```
