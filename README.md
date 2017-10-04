@@ -1,4 +1,4 @@
-# Twilight+ - A Sublime Text 3 Color Scheme
+# Twilight+  A Sublime Text 3 Color Scheme
 
 Twilight color scheme for `Sublime Text`, with support for `Markdown`, including the [Markdown Extended](https://github.com/jonschlinkert/sublime-markdown-extended) plugin.
 
