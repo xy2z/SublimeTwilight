@@ -631,9 +631,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Markup: Indent Block</string>
+			<string>Markup: Code Block</string>
 			<key>scope</key>
-			<string>markup.raw.block.markdown</string>
+			<string>markup.raw.block.markdown, markup.raw.code-fence.markdown-gfm</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
